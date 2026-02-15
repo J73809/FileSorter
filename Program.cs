@@ -1,4 +1,3 @@
-﻿
 using Spectre.Console;
 
 Console.Clear();
